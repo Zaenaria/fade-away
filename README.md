@@ -1,2 +1,3 @@
-# fade-away
-Fade Away is a minimalist game based on A Dark Room
+# Fade Away
+Fade Away is a minimalist text based game based on <a href="https://github.com/doublespeakgames/adarkroom">A Dark Room</a>
+
