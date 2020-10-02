@@ -8,7 +8,13 @@ What color was it? Don't remember...
 Your vision clears.<br>
 The fun starts.<br>
 
-Story takes place in a post-apocalyptic city where someone, called the Maker, has created color coded pills that send the user off into vivid themed dreams. The color dictates the type of dream you will have. Blue = adventure, pink = porno, purple = fantasy themed adventure, green = Sci-fi themed adventure, red = romance story, etc. All these pills take you away from the horror and lawlessness that is day to day life. People start to realize that they go mad if they take too many. There are rumors that the Maker has made a multicolored pill that either cures this madness or kills you in the process.
+Story takes place in a post-apocalyptic city where someone, called the Maker, has created color coded pills that send the user off into vivid themed dreams. The color dictates the type of dream you will have. <br>
+Blue = adventure <br>
+pink = porno <br>
+purple = fantasy themed adventure <br>
+green = Sci-fi themed adventure <br>
+red = romance story, etc. <br>
+All these pills take you away from the horror and lawlessness that is day to day life. People start to realize that they go mad if they take too many. There are rumors that the Maker has made a multicolored pill that either cures this madness or kills you in the process.
 
 # Why I'm making this
 I'm making this to test my Javascript skills. It will be made up of vanilla JS. Also for Hacktoberfest!
